@@ -1,0 +1,7 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=2151
+
+This is a very simple script.  It adds a Sessions menu to gvim. Using the menu you can save and restore sessions. Sessions are saved in ~/.vim/sessions by default. In case you need further clarification, see the screenshot:
+
+http://chargedsoftware.com/~charged2885/files/sessions.vim.png
+
+For those who don't know, sessions allow you to save the state of your current Vim session to a file. You can then :source the session file to resume state. see :h mks for more information.
